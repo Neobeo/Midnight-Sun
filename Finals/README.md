@@ -1,6 +1,6 @@
 # Midnight Sun CTF 2022 Finals
 
-This was a 24-hour CTF held in Stockholm from 19th-20th August 2022. The top teams from the qualifiers were flown into Sweden to participate in the finals, with all expenses paid! I played with [ThreeTop Walk](https://ctftime.org/team/181118) and we finished in 7th place, one position lower than the qualifiers.
+This was a 24-hour CTF held in Stockholm from 19th-20th August 2022. The top teams from the qualifiers were flown into Sweden to participate in the finals, with all expenses paid! I played with [ThreeTop Walk](https://three.top) and we finished in 7th place, one position lower than the qualifiers.
 
 ![scoreboard](scoreboard.png)
 
